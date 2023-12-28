@@ -1,6 +1,6 @@
 # Hello, I'm Daniel 👋 
 
-🖥️ Computer Scientist | 📍 Bolzano, South Tyrol | [WebSite](https://danielamadori98.github.io) | [Linkedin]()
+🖥️ Computer Scientist | 📍 Bolzano - Verona | [WebSite](https://danielamadori98.github.io) | [Linkedin]()
 
 I'm a passionate computer scientist born in Bolzano, South Tyrol, with a knack for problem-solving and a love for coding.
 
