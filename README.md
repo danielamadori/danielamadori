@@ -13,7 +13,7 @@ I'm a passionate computer scientist born in Bolzano, South Tyrol, with a knack f
 
 - 💼 **Work Experience:**
   - (03/2024 - now) Tutor of Software Engineering - B.S. in Computer Science - University of Verona
-  - (03/2024 - now) Tutor of Programming with labotatory - B.S. in Applied Mathematics - University of Verona
+  - (03/2024 - now) Tutor of Programming with laboratory - B.S. in Applied Mathematics - University of Verona
   - (03/2023 - 06/2023) Tutor of Software Engineering - B.S. in Computer Science, Bioinformatics - University of Verona
   - (10/2022 - 02/2023) Tutor of Programming II - B.S. in Computer Science - University of Verona
   - (09/2021 - 08/2022) High School Teacher - ISS Galileo Galilei - ITT - Computer Science
