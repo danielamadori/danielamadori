@@ -5,7 +5,7 @@
 ## About Me
 
 - 🎓 **Education:** 
-  - M.S. in Computer Science and Engineering (Expected 2024) - University of Verona
+  - M.S. in Computer Science and Engineering (Expected 03/2025) - University of Verona
   - M.S. (Erasmus) in Intelligent Systems and Numerical Applications in Engineering (9/2023 - 2/2024) - University of Las Palmas de Gran Canaria
   - B.S. in Computer Science (Graduated 12/07/2022) - University of Verona (Thesis: A system for contact tracing based on BLE devices)
 
