@@ -1,6 +1,6 @@
 # Hello, I'm Daniel 👋 
 
-🖥️ Computer Scientist | 📍 Bolzano - Verona | [WebSite](https://danielamadori98.github.io) | [Linkedin]()
+🖥️ Computer Scientist | 📍 Bolzano - Verona | [WebSite](https://danielamadori.github.io) | [Linkedin]()
 
 ## About Me
 
