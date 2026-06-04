@@ -1,16 +1,16 @@
 # Hello, I'm Daniel 👋 
 
-🖥️ Computer Scientist | 📍 Bolzano - Verona | [WebSite](https://danielamadori.github.io) | [Linkedin]()
+🖥️ Computer Scientist | 📍 Bolzano - Verona | [WebSite](https://danielamadori.github.io) | [LinkedIn](https://www.linkedin.com/in/daniel-amadori) | [ORCID](https://orcid.org/0009-0003-4373-7811)
 
 ## About Me
 
 - 🎓 **Education:** 
-  - M.S. in Computer Science and Engineering (Graduated 07/2025) - University of Verona (Thesis: Explaining Strategies for Expected Impacts)
+  - M.S. in Computer Science and Engineering (Graduated 07/2025, 109/110) - University of Verona (Thesis: Explaining Strategies for Expected Impacts)
   - M.S. (Erasmus) in Intelligent Systems and Numerical Applications in Engineering (9/2023 - 2/2024) - University of Las Palmas de Gran Canaria
-  - B.S. in Computer Science (Graduated 12/07/2022) - University of Verona (Thesis: A system for contact tracing based on BLE devices)
+  - B.S. in Computer Science (Graduated 12/07/2022, 108/110) - University of Verona (Thesis: A system for contact tracing based on BLE devices)
 
 - 💼 **Work Experience:**
-- - (10/2025 – 06/2026) **Post-graduate Research Grant** – University of Verona  
+  - (10/2025 – 06/2026) **Post-graduate Research Grant** – University of Verona  
   *Project:* *Impact of time-varying parameters on the dimensional distribution of molecules in chemical processes: modeling and analysis*  
   *Industrial partner:* **NEWCHEM S.p.A.** (Milan, Italy)  
   *Supervisor:* Prof. Pietro Sala  
@@ -26,7 +26,7 @@
   - (03/2024 - 07/2024) Tutor of Programming with laboratory - B.S. in Applied Mathematics - University of Verona
   - (03/2023 - 06/2023) Tutor of Software Engineering - B.S. in Computer Science, Bioinformatics - University of Verona
   - (10/2022 - 02/2023) Tutor of Programming II - B.S. in Computer Science - University of Verona
-  - (09/2021 - 08/2022) High School Teacher - ISS Galileo Galilei - ITT - Computer Science
+  - (09/2021 - 08/2022) High School Teacher - IIS Galileo Galilei - ITT - Computer Science
 
 - :gear: **Git statistics:**
 
