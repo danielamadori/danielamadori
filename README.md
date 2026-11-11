@@ -30,7 +30,7 @@
   - (09/2021 - 08/2022) High School Teacher - IIS Galileo Galilei - ITT - Computer Science
 
 - 📚 **Publications:**
-  - *Continuous Reasons for Random Forests via Budgeted Ordered Binary Decision Diagrams Compilation* - SUM 2026, Athens (Springer LNAI, in press)
+  - [*Continuous Reasons for Random Forests via Budgeted Ordered Binary Decision Diagrams Compilation*](https://link.springer.com/chapter/10.1007/978-3-032-43514-9_23) - SUM 2026, LNAI vol. 17188, pp. 346-360
   - [*Compiling the Plurality Winner of a Random Forest into OBDDs via Margin Absorption*](https://ceur-ws.org/Vol-4269/paper53.pdf) - ICTCS 2026, CEUR-WS vol. 4269, pp. 288-300
   - [*PACO: A Petri Net-Based Tool for Designing, Simulating, and Analyzing Multi-Objective Stochastic Processes*](https://link.springer.com/chapter/10.1007/978-3-032-27879-1_16) - PETRI NETS 2026, LNCS vol. 16567, pp. 335-346
   - [*DRIFTS: Distributed Robustness for Time Series is Feasible, Distributed, and Fun*](https://ieeexplore.ieee.org/document/11536523) - IEEE CAI 2026
